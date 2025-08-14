@@ -1,0 +1,6 @@
+{
+    "launch": {
+
+        "editor.suggestOnTriggerCharacters": false,
+    }
+}
